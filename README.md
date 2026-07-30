@@ -1,11 +1,11 @@
-Estudante de Engenharia da Computação na UNISAL (3º semestre), com base em desenvolvimento front-end e interesse em criar produtos que resolvem problemas reais.
+Computer Engineering student at UNISAL (3rd semester) with a foundation in front-end development and a strong interest in building products that solve real-world problems.
 
-Atualmente estou focado em aprender React e Next.js, enquanto desenvolvo projetos full-stack para aprimorar minhas habilidades e construir um portfólio sólido.
+Currently focused on learning React and Next.js while developing full-stack projects to strengthen my technical skills and build a solid portfolio.
 
-Tenho como objetivo trabalhar internacionalmente, contribuir para produtos globais e evoluir junto a equipes de engenharia de alto nível.
+My goal is to work internationally, contribute to global products, and grow alongside high-performing engineering teams.
 
-🛠 Tecnologias:
-Java • C • C# • Python • HTML • CSS • GitHub
+🛠 Technologies:
+Java • C • C# • Python • HTML • CSS • Git • GitHub • React • Next.js
 
-🌎 Idiomas:
-Português (nativo) • Inglês (intermediário-avançado)
+🌎 Languages:
+Portuguese (Native) • English (Upper-Intermediate)
