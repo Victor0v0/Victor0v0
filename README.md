@@ -61,28 +61,6 @@ https://study-hub-tau-five.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Victor0v0&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor0v0&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Victor0v0&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🎯 Current Goals
 
 - 🚀 Master React & Next.js
