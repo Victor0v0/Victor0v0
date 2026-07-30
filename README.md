@@ -88,12 +88,12 @@ https://study-hub-tau-five.vercel.app/
 </a>
 
 <!-- Replace with your LinkedIn URL -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/victor-moura-81462b347">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <!-- Replace with your email -->
-<a href="mailto:your@email.com">
+<a href="victorsenai004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
